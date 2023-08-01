@@ -4,12 +4,6 @@
 
 
 
-<title>Giardiasis, Duodenum Giardiasis, Duodenum</title>
-<meta name="keywords" content="Giardiasis, Duodenum, Giardiasis, Duodenum, patoloji, atlas, pathology, whole slide image">
-<meta name="description" content="Giardiasis, Duodenum Giardiasis, Duodenum">
-
-
-
 
 
 ```
